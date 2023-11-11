@@ -13,6 +13,11 @@
             "eslint": "*"
           }
         },
+        "ng2-dragula": {
+          "peerDependencies": {
+            "@angular/compiler-cli": "*"
+          }
+        },
         "postcss-loader": {
           "peerDependencies": {
             "postcss-flexbugs-fixes": "*",
